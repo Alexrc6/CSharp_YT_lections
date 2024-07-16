@@ -1,0 +1,7 @@
+D:\GB\03_CSharpVS\YT_lections\operators\bin\Debug\operators.exe.config
+D:\GB\03_CSharpVS\YT_lections\operators\bin\Debug\operators.exe
+D:\GB\03_CSharpVS\YT_lections\operators\bin\Debug\operators.pdb
+D:\GB\03_CSharpVS\YT_lections\operators\obj\Debug\operators.csproj.AssemblyReference.cache
+D:\GB\03_CSharpVS\YT_lections\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache
+D:\GB\03_CSharpVS\YT_lections\operators\obj\Debug\operators.exe
+D:\GB\03_CSharpVS\YT_lections\operators\obj\Debug\operators.pdb

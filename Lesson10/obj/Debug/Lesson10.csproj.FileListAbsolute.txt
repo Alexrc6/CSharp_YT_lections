@@ -1,0 +1,7 @@
+D:\GB\03_CSharpVS\YT_lections\Lesson10\bin\Debug\Lesson10.exe.config
+D:\GB\03_CSharpVS\YT_lections\Lesson10\bin\Debug\Lesson10.exe
+D:\GB\03_CSharpVS\YT_lections\Lesson10\bin\Debug\Lesson10.pdb
+D:\GB\03_CSharpVS\YT_lections\Lesson10\obj\Debug\Lesson10.csproj.AssemblyReference.cache
+D:\GB\03_CSharpVS\YT_lections\Lesson10\obj\Debug\Lesson10.csproj.CoreCompileInputs.cache
+D:\GB\03_CSharpVS\YT_lections\Lesson10\obj\Debug\Lesson10.exe
+D:\GB\03_CSharpVS\YT_lections\Lesson10\obj\Debug\Lesson10.pdb
