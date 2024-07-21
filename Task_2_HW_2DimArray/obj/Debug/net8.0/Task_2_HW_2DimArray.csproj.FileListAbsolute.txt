@@ -1,0 +1,14 @@
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\obj\Debug\net8.0\Task_2_HW_2DimArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\obj\Debug\net8.0\Task_2_HW_2DimArray.AssemblyInfoInputs.cache
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\obj\Debug\net8.0\Task_2_HW_2DimArray.AssemblyInfo.cs
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\obj\Debug\net8.0\Task_2_HW_2DimArray.csproj.CoreCompileInputs.cache
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\bin\Debug\net8.0\Task_2_HW_2DimArray.exe
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\bin\Debug\net8.0\Task_2_HW_2DimArray.deps.json
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\bin\Debug\net8.0\Task_2_HW_2DimArray.runtimeconfig.json
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\bin\Debug\net8.0\Task_2_HW_2DimArray.dll
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\bin\Debug\net8.0\Task_2_HW_2DimArray.pdb
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\obj\Debug\net8.0\Task_2_HW_2DimArray.dll
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\obj\Debug\net8.0\refint\Task_2_HW_2DimArray.dll
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\obj\Debug\net8.0\Task_2_HW_2DimArray.pdb
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\obj\Debug\net8.0\Task_2_HW_2DimArray.genruntimeconfig.cache
+D:\GB\03_CSharpVS\GB_part_2\Task_2_HW_2DimArray\obj\Debug\net8.0\ref\Task_2_HW_2DimArray.dll

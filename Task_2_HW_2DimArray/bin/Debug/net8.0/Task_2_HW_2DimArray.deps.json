@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Task_2_HW_2DimArray/1.0.0": {
+        "runtime": {
+          "Task_2_HW_2DimArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task_2_HW_2DimArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
