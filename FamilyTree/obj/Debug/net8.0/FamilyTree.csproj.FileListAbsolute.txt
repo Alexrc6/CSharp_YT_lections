@@ -1,0 +1,14 @@
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\obj\Debug\net8.0\FamilyTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\obj\Debug\net8.0\FamilyTree.AssemblyInfoInputs.cache
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\obj\Debug\net8.0\FamilyTree.AssemblyInfo.cs
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\obj\Debug\net8.0\FamilyTree.csproj.CoreCompileInputs.cache
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\bin\Debug\net8.0\FamilyTree.exe
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\bin\Debug\net8.0\FamilyTree.deps.json
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\bin\Debug\net8.0\FamilyTree.runtimeconfig.json
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\bin\Debug\net8.0\FamilyTree.dll
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\bin\Debug\net8.0\FamilyTree.pdb
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\obj\Debug\net8.0\FamilyTree.dll
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\obj\Debug\net8.0\refint\FamilyTree.dll
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\obj\Debug\net8.0\FamilyTree.pdb
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\obj\Debug\net8.0\FamilyTree.genruntimeconfig.cache
+D:\GB\03_CSharpVS\GB_part_2\FamilyTree\obj\Debug\net8.0\ref\FamilyTree.dll
