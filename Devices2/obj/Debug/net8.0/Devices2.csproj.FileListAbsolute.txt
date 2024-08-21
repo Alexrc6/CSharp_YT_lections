@@ -1,0 +1,14 @@
+D:\GB\03_CSharpVS\GB_part_2\Devices2\bin\Debug\net8.0\Devices2.exe
+D:\GB\03_CSharpVS\GB_part_2\Devices2\bin\Debug\net8.0\Devices2.deps.json
+D:\GB\03_CSharpVS\GB_part_2\Devices2\bin\Debug\net8.0\Devices2.runtimeconfig.json
+D:\GB\03_CSharpVS\GB_part_2\Devices2\bin\Debug\net8.0\Devices2.dll
+D:\GB\03_CSharpVS\GB_part_2\Devices2\bin\Debug\net8.0\Devices2.pdb
+D:\GB\03_CSharpVS\GB_part_2\Devices2\obj\Debug\net8.0\Devices2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\03_CSharpVS\GB_part_2\Devices2\obj\Debug\net8.0\Devices2.AssemblyInfoInputs.cache
+D:\GB\03_CSharpVS\GB_part_2\Devices2\obj\Debug\net8.0\Devices2.AssemblyInfo.cs
+D:\GB\03_CSharpVS\GB_part_2\Devices2\obj\Debug\net8.0\Devices2.csproj.CoreCompileInputs.cache
+D:\GB\03_CSharpVS\GB_part_2\Devices2\obj\Debug\net8.0\Devices2.dll
+D:\GB\03_CSharpVS\GB_part_2\Devices2\obj\Debug\net8.0\refint\Devices2.dll
+D:\GB\03_CSharpVS\GB_part_2\Devices2\obj\Debug\net8.0\Devices2.pdb
+D:\GB\03_CSharpVS\GB_part_2\Devices2\obj\Debug\net8.0\Devices2.genruntimeconfig.cache
+D:\GB\03_CSharpVS\GB_part_2\Devices2\obj\Debug\net8.0\ref\Devices2.dll
