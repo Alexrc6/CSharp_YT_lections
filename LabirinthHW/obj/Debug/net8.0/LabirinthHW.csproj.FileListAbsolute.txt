@@ -1,0 +1,14 @@
+C:\Users\arche\source\repos\LabirinthHW\bin\Debug\net8.0\LabirinthHW.exe
+C:\Users\arche\source\repos\LabirinthHW\bin\Debug\net8.0\LabirinthHW.deps.json
+C:\Users\arche\source\repos\LabirinthHW\bin\Debug\net8.0\LabirinthHW.runtimeconfig.json
+C:\Users\arche\source\repos\LabirinthHW\bin\Debug\net8.0\LabirinthHW.dll
+C:\Users\arche\source\repos\LabirinthHW\bin\Debug\net8.0\LabirinthHW.pdb
+C:\Users\arche\source\repos\LabirinthHW\obj\Debug\net8.0\LabirinthHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arche\source\repos\LabirinthHW\obj\Debug\net8.0\LabirinthHW.AssemblyInfoInputs.cache
+C:\Users\arche\source\repos\LabirinthHW\obj\Debug\net8.0\LabirinthHW.AssemblyInfo.cs
+C:\Users\arche\source\repos\LabirinthHW\obj\Debug\net8.0\LabirinthHW.csproj.CoreCompileInputs.cache
+C:\Users\arche\source\repos\LabirinthHW\obj\Debug\net8.0\LabirinthHW.dll
+C:\Users\arche\source\repos\LabirinthHW\obj\Debug\net8.0\refint\LabirinthHW.dll
+C:\Users\arche\source\repos\LabirinthHW\obj\Debug\net8.0\LabirinthHW.pdb
+C:\Users\arche\source\repos\LabirinthHW\obj\Debug\net8.0\LabirinthHW.genruntimeconfig.cache
+C:\Users\arche\source\repos\LabirinthHW\obj\Debug\net8.0\ref\LabirinthHW.dll
