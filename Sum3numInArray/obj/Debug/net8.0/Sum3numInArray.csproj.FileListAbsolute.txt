@@ -1,0 +1,14 @@
+C:\Users\arche\source\repos\Sum3numInArray\obj\Debug\net8.0\Sum3numInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arche\source\repos\Sum3numInArray\obj\Debug\net8.0\Sum3numInArray.AssemblyInfoInputs.cache
+C:\Users\arche\source\repos\Sum3numInArray\obj\Debug\net8.0\Sum3numInArray.AssemblyInfo.cs
+C:\Users\arche\source\repos\Sum3numInArray\obj\Debug\net8.0\Sum3numInArray.csproj.CoreCompileInputs.cache
+C:\Users\arche\source\repos\Sum3numInArray\bin\Debug\net8.0\Sum3numInArray.exe
+C:\Users\arche\source\repos\Sum3numInArray\bin\Debug\net8.0\Sum3numInArray.deps.json
+C:\Users\arche\source\repos\Sum3numInArray\bin\Debug\net8.0\Sum3numInArray.runtimeconfig.json
+C:\Users\arche\source\repos\Sum3numInArray\bin\Debug\net8.0\Sum3numInArray.dll
+C:\Users\arche\source\repos\Sum3numInArray\bin\Debug\net8.0\Sum3numInArray.pdb
+C:\Users\arche\source\repos\Sum3numInArray\obj\Debug\net8.0\Sum3numInArray.dll
+C:\Users\arche\source\repos\Sum3numInArray\obj\Debug\net8.0\refint\Sum3numInArray.dll
+C:\Users\arche\source\repos\Sum3numInArray\obj\Debug\net8.0\Sum3numInArray.pdb
+C:\Users\arche\source\repos\Sum3numInArray\obj\Debug\net8.0\Sum3numInArray.genruntimeconfig.cache
+C:\Users\arche\source\repos\Sum3numInArray\obj\Debug\net8.0\ref\Sum3numInArray.dll

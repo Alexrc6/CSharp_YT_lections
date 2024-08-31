@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sum3numInArray/1.0.0": {
+        "runtime": {
+          "Sum3numInArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum3numInArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
