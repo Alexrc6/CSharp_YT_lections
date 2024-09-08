@@ -1,0 +1,14 @@
+C:\Users\arche\source\repos\HW_sem5_Calculator\bin\Debug\net8.0\HW_sem5_Calculator.exe
+C:\Users\arche\source\repos\HW_sem5_Calculator\bin\Debug\net8.0\HW_sem5_Calculator.deps.json
+C:\Users\arche\source\repos\HW_sem5_Calculator\bin\Debug\net8.0\HW_sem5_Calculator.runtimeconfig.json
+C:\Users\arche\source\repos\HW_sem5_Calculator\bin\Debug\net8.0\HW_sem5_Calculator.dll
+C:\Users\arche\source\repos\HW_sem5_Calculator\bin\Debug\net8.0\HW_sem5_Calculator.pdb
+C:\Users\arche\source\repos\HW_sem5_Calculator\obj\Debug\net8.0\HW_sem5_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arche\source\repos\HW_sem5_Calculator\obj\Debug\net8.0\HW_sem5_Calculator.AssemblyInfoInputs.cache
+C:\Users\arche\source\repos\HW_sem5_Calculator\obj\Debug\net8.0\HW_sem5_Calculator.AssemblyInfo.cs
+C:\Users\arche\source\repos\HW_sem5_Calculator\obj\Debug\net8.0\HW_sem5_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\arche\source\repos\HW_sem5_Calculator\obj\Debug\net8.0\HW_sem5_Calculator.dll
+C:\Users\arche\source\repos\HW_sem5_Calculator\obj\Debug\net8.0\refint\HW_sem5_Calculator.dll
+C:\Users\arche\source\repos\HW_sem5_Calculator\obj\Debug\net8.0\HW_sem5_Calculator.pdb
+C:\Users\arche\source\repos\HW_sem5_Calculator\obj\Debug\net8.0\HW_sem5_Calculator.genruntimeconfig.cache
+C:\Users\arche\source\repos\HW_sem5_Calculator\obj\Debug\net8.0\ref\HW_sem5_Calculator.dll

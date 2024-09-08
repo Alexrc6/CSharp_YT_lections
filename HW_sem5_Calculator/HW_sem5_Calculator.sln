@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_sem5_Calculator", "HW_sem5_Calculator.csproj", "{868FA01E-351C-404A-B16F-12D9A85FEFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{868FA01E-351C-404A-B16F-12D9A85FEFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868FA01E-351C-404A-B16F-12D9A85FEFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868FA01E-351C-404A-B16F-12D9A85FEFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868FA01E-351C-404A-B16F-12D9A85FEFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CEB9C73-DA58-41A6-A7EA-AE3408A16230}
+	EndGlobalSection
+EndGlobal
