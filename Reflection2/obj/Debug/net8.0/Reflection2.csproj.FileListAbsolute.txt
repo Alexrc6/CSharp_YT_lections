@@ -1,0 +1,14 @@
+C:\Users\arche\source\repos\Reflection2\obj\Debug\net8.0\Reflection2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arche\source\repos\Reflection2\obj\Debug\net8.0\Reflection2.AssemblyInfoInputs.cache
+C:\Users\arche\source\repos\Reflection2\obj\Debug\net8.0\Reflection2.AssemblyInfo.cs
+C:\Users\arche\source\repos\Reflection2\obj\Debug\net8.0\Reflection2.csproj.CoreCompileInputs.cache
+C:\Users\arche\source\repos\Reflection2\bin\Debug\net8.0\Reflection2.exe
+C:\Users\arche\source\repos\Reflection2\bin\Debug\net8.0\Reflection2.deps.json
+C:\Users\arche\source\repos\Reflection2\bin\Debug\net8.0\Reflection2.runtimeconfig.json
+C:\Users\arche\source\repos\Reflection2\bin\Debug\net8.0\Reflection2.dll
+C:\Users\arche\source\repos\Reflection2\bin\Debug\net8.0\Reflection2.pdb
+C:\Users\arche\source\repos\Reflection2\obj\Debug\net8.0\Reflection2.dll
+C:\Users\arche\source\repos\Reflection2\obj\Debug\net8.0\refint\Reflection2.dll
+C:\Users\arche\source\repos\Reflection2\obj\Debug\net8.0\Reflection2.pdb
+C:\Users\arche\source\repos\Reflection2\obj\Debug\net8.0\Reflection2.genruntimeconfig.cache
+C:\Users\arche\source\repos\Reflection2\obj\Debug\net8.0\ref\Reflection2.dll
